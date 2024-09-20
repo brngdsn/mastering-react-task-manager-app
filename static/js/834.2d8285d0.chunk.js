@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktask_manager_app=self.webpackChunktask_manager_app||[]).push([[834],{834:(a,e,s)=>{s.r(e),s.d(e,{default:()=>n});var r=s(475),t=s(579);const n=()=>(0,t.jsxs)("footer",{children:[(0,t.jsx)("p",{children:"\xa9 2024 Task Manager App"}),(0,t.jsx)(r.N_,{to:"/",children:"Home"}),"\xa0|\xa0",(0,t.jsx)(r.N_,{to:"/about",children:"About"})]})}}]);
+//# sourceMappingURL=834.2d8285d0.chunk.js.map

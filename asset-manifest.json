@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mastering-react-task-manager-app/static/css/main.1d7c80a5.css",
+    "main.js": "/mastering-react-task-manager-app/static/js/main.bc88a224.js",
+    "static/js/284.c85a98b8.chunk.js": "/mastering-react-task-manager-app/static/js/284.c85a98b8.chunk.js",
+    "static/js/834.2d8285d0.chunk.js": "/mastering-react-task-manager-app/static/js/834.2d8285d0.chunk.js",
+    "static/js/300.12049878.chunk.js": "/mastering-react-task-manager-app/static/js/300.12049878.chunk.js",
+    "static/js/888.a19ffdb8.chunk.js": "/mastering-react-task-manager-app/static/js/888.a19ffdb8.chunk.js",
+    "static/js/909.58e7fa09.chunk.js": "/mastering-react-task-manager-app/static/js/909.58e7fa09.chunk.js",
+    "static/js/453.990c1ec9.chunk.js": "/mastering-react-task-manager-app/static/js/453.990c1ec9.chunk.js",
+    "static/js/204.cb759509.chunk.js": "/mastering-react-task-manager-app/static/js/204.cb759509.chunk.js",
+    "index.html": "/mastering-react-task-manager-app/index.html",
+    "main.1d7c80a5.css.map": "/mastering-react-task-manager-app/static/css/main.1d7c80a5.css.map",
+    "main.bc88a224.js.map": "/mastering-react-task-manager-app/static/js/main.bc88a224.js.map",
+    "284.c85a98b8.chunk.js.map": "/mastering-react-task-manager-app/static/js/284.c85a98b8.chunk.js.map",
+    "834.2d8285d0.chunk.js.map": "/mastering-react-task-manager-app/static/js/834.2d8285d0.chunk.js.map",
+    "300.12049878.chunk.js.map": "/mastering-react-task-manager-app/static/js/300.12049878.chunk.js.map",
+    "888.a19ffdb8.chunk.js.map": "/mastering-react-task-manager-app/static/js/888.a19ffdb8.chunk.js.map",
+    "909.58e7fa09.chunk.js.map": "/mastering-react-task-manager-app/static/js/909.58e7fa09.chunk.js.map",
+    "453.990c1ec9.chunk.js.map": "/mastering-react-task-manager-app/static/js/453.990c1ec9.chunk.js.map",
+    "204.cb759509.chunk.js.map": "/mastering-react-task-manager-app/static/js/204.cb759509.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7c80a5.css",
+    "static/js/main.bc88a224.js"
+  ]
+}
