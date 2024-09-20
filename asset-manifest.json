@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mastering-react-task-manager-app/static/css/main.1d7c80a5.css",
-    "main.js": "/mastering-react-task-manager-app/static/js/main.44e61905.js",
+    "main.js": "/mastering-react-task-manager-app/static/js/main.38d5baab.js",
     "static/js/284.c85a98b8.chunk.js": "/mastering-react-task-manager-app/static/js/284.c85a98b8.chunk.js",
     "static/js/834.2d8285d0.chunk.js": "/mastering-react-task-manager-app/static/js/834.2d8285d0.chunk.js",
     "static/js/300.12049878.chunk.js": "/mastering-react-task-manager-app/static/js/300.12049878.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/204.cb759509.chunk.js": "/mastering-react-task-manager-app/static/js/204.cb759509.chunk.js",
     "index.html": "/mastering-react-task-manager-app/index.html",
     "main.1d7c80a5.css.map": "/mastering-react-task-manager-app/static/css/main.1d7c80a5.css.map",
-    "main.44e61905.js.map": "/mastering-react-task-manager-app/static/js/main.44e61905.js.map",
+    "main.38d5baab.js.map": "/mastering-react-task-manager-app/static/js/main.38d5baab.js.map",
     "284.c85a98b8.chunk.js.map": "/mastering-react-task-manager-app/static/js/284.c85a98b8.chunk.js.map",
     "834.2d8285d0.chunk.js.map": "/mastering-react-task-manager-app/static/js/834.2d8285d0.chunk.js.map",
     "300.12049878.chunk.js.map": "/mastering-react-task-manager-app/static/js/300.12049878.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.1d7c80a5.css",
-    "static/js/main.44e61905.js"
+    "static/js/main.38d5baab.js"
   ]
 }
