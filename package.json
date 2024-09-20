@@ -15,7 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run test && npm run build && npm run explore",
+    "predeploy": "npm run test -- --watchAll=false && npm run build && npm run explore",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
